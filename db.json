@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "id": 1737492122536,
+      "name": "Gipsz Jakab",
+      "email": "gipsz@gov.hu",
+      "password": "$2a$08$75F8zqDHaMUd.yLC6TwRv.5rDTY8IXQ0UwZ3kCTaj5NxxYPJ02roa"
+    },
+    {
+      "id": 1739899860747,
+      "name": "drg",
+      "email": "df@dfg",
+      "password": "$2a$08$gUzAsBb9ab.kBIpNUQ0eqesZE7mY.WTPzy99t6jBNKQOJGZs0wBXu"
+    },
+    {
+      "id": 1739899880142,
+      "name": "1234",
+      "email": "123@12",
+      "password": "$2a$08$2Hvm7oQIBQkosLNBXXfNp.wPxGCJI//tRM8nmBeCmBe.LsE5kO0lq"
+    },
+    {
+      "id": 1739902849625,
+      "name": "Asd",
+      "email": "asd@gmail.com",
+      "password": "$2a$08$3DtuezKWgfcWBb6AuKc6deOz1cp8AZ0VCCepHy88TL6dZdyRMGq4."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Technology"
+    },
+    {
+      "id": 2,
+      "name": "Travel"
+    },
+    {
+      "id": 3,
+      "name": "Food"
+    },
+    {
+      "id": 4,
+      "name": "Lifestyle"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Future of AI",
+      "subtitle": "A glimpse into the world of artificial intelligence",
+      "shortText": "AI is rapidly changing our lives.",
+      "text": "Artificial intelligence is revolutionizing industries...",
+      "image": "images/ai.jpg",
+      "categoryId": 1,
+      "userId": 1737492122536
+    },
+    {
+      "id": 2,
+      "title": "Exploring Budapest",
+      "subtitle": "A travel guide to the Pearl of the Danube",
+      "shortText": "Discover the beauty of Budapest.",
+      "text": "Budapest, the capital of Hungary, is a city of...",
+      "image": "images/budapest.jpg",
+      "categoryId": 2,
+      "userId": 1737492122536
+    },
+    {
+      "id": 3,
+      "title": "Delicious Pasta Recipes",
+      "subtitle": "Easy and tasty pasta dishes for every occasion",
+      "shortText": "Whip up some amazing pasta.",
+      "text": "Pasta is a versatile and beloved dish...",
+      "image": "images/pasta.jpg",
+      "categoryId": 3,
+      "userId": 1739899860747
+    },
+    {
+      "id": 4,
+      "title": "Mindfulness and Meditation",
+      "subtitle": "Improve your well-being with simple techniques",
+      "shortText": "Find inner peace through mindfulness.",
+      "text": "Mindfulness and meditation are powerful tools...",
+      "image": "images/meditation.jpg",
+      "categoryId": 4,
+      "userId": 1739899860747
+    },
+    {
+      "id": 5,
+      "title": "JavaScript Frameworks",
+      "subtitle": "Comparing React, Vue, and Angular",
+      "shortText": "Choosing the right framework.",
+      "text": "JavaScript frameworks are essential for modern web...",
+      "image": "images/react.jpg",
+      "categoryId": 1,
+      "userId": 1739899880142
+    },
+    {
+      "id": 6,
+      "title": "The Benefits of Hiking",
+      "subtitle": "Get outdoors and explore nature",
+      "shortText": "Hiking is great for your health.",
+      "text": "Hiking is a fantastic way to improve your physical...",
+      "image": "images/hiking.jpg",
+      "categoryId": 2,
+      "userId": 1739899880142
+    },
+    {
+      "id": 7,
+      "title": "Coffee Brewing Methods",
+      "subtitle": "A guide to different ways to brew coffee",
+      "shortText": "Explore the world of coffee.",
+      "text": "Coffee brewing is an art and a science...",
+      "image": "images/coffee.jpg",
+      "categoryId": 3,
+      "userId": 1737492122536
+    },
+    {
+      "title": "Working out",
+      "subtitle": "Benefits of regular workouts",
+      "shortText": "Research has shown the various benefits of working out regularly.",
+      "text": "We have all heard it many times before -- regular exercise is good for you, and it can help you manage your weight. But if you are like many Americans, you are busy, you sit most of the day at your job, and you haven't yet changed your exercise habits. The good news is that it's never too late to start. You can start slowly, and find ways to fit more physical activity into your life. To get the most benefit, you should try to get the recommended amount of physical activity for your age. If you can do that, the payoff is that you will feel better, may help prevent or control many diseases, and will likely even live longer. ",
+      "image": "images/workout.jpg",
+      "categoryId": 4,
+      "userId": 1739902849625,
+      "id": 8
+    }
+  ]
+}
